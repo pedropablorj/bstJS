@@ -1,2 +1,2 @@
 # bstJS
-Binary search trees implemented with JS
+Binary search trees implemented with JavaScript
